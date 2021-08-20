@@ -85,3 +85,5 @@ module.exports = {
 ## Pre-Made Commands
 
 I have already created a ping command and set-prefix command as a basis. Feel free to edit them or delete them if you wish.
+
+# - Codeops
