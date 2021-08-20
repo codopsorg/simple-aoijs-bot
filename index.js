@@ -2,7 +2,7 @@
 
 const Aoijs = require("aoi.js")
 const bot = new Aoijs.Bot({
-  token:'ODc3MTY1NTgwNDQ3MjgxMTgy.YRuqGw.pP4IVjNqKbdT-U-Su8RaW4S63W8',
+  token:'token here',
   prefix: [`$getServerVar[prefix]`, '<@$clientID>', '<@!$clientID>', '!'], // The server prefix, and mentioning the bot will both work as a prefix
   mobile: false //Whether or not the bot has a mobile status
 })
